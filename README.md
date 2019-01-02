@@ -2,6 +2,7 @@
 Anggota Kelompok :
 1. Maisia Rohmatul Jannah (1541180019)
 2. Muhammad Robbi Darwis (1541180013)
+
 EatIt merupakan aplikasi E-Commerce yang memiliki 2 aktor yaitu client dan admin.
 #admin
 Phone     :0899123
