@@ -4,13 +4,21 @@ Anggota Kelompok :
 2. Muhammad Robbi Darwis (1541180013)
 
 EatIt merupakan aplikasi E-Commerce yang memiliki 2 aktor yaitu client dan admin.
+
 #admin
+
 Phone     :0899123
+
 Password  :1234
+
 #pelanggan
+
 Phone     :0988123344
+
 Password  :1234
+
 FItur :
+
 1. Fitur notifikasi status pemesanan untuk pelanggan, sedangkan admin dapat mengatur atau merubah status pesanan
 2. Fitur login(admin dan client) dan registrasi (client)
 3. Daftar menu
